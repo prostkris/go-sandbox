@@ -1,2 +1,1 @@
-# go-sandbox
--?-
+go-sandbox - новый проект
